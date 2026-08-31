@@ -1,6 +1,6 @@
 # Car Market Trends Analysis using Car Dekho Dataset
 
-**VOIS Internship Project (Supported by AICTE)**  
+**VOIS Internship Minor Project (Supported by AICTE)**  
 **Domain:** Data Analytics & Visualization  
 **Environment:** Google Colab / Python  
 
